@@ -1,0 +1,8 @@
+/Qwen/
+/microsoft/
+
+/data/bench/
+/data/bench.zip
+
+*.json
+*.json.bak
